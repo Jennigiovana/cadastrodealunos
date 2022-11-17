@@ -1,0 +1,1 @@
+Insert INTO horario (ID, Descricao, IDprofessor) VALUES (1 "matematica", 1);

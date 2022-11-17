@@ -1,0 +1,1 @@
+INSERT INTO saladeaula (ID, IDturmas, Descricao) VALUES (1,1 "INF");
